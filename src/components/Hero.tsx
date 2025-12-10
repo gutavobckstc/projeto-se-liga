@@ -20,7 +20,7 @@ const Hero = () => {
           </p>
           
           <h1 className="text-5xl md:text-7xl font-bold font-heading mb-6 animate-fade-up opacity-0 delay-100">
-            <span className="text-foreground">Seu Nome</span>
+            <span className="text-foreground">Gustavo</span>
             <span className="text-gradient block mt-2">Desenvolvedor Web</span>
           </h1>
           
